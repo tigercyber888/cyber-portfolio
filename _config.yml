@@ -1,11 +1,11 @@
 # Site settings
-title: Beau Gilbert
-email: beaugilbert93@gmail.com
-url: https://coachbeau.github.io/cyber-base
+title: Jonas Guidry
+email: jonasguidry2026@gmail.com
+url: https://tigercyber888.github.io/cyber-portfolio
 description: "Portfolio of cybersecurity work samples for a junior-level cyber security professional."
 keywords: "cybersecurity, cyber, security, portfolio, tech"
-skills: "Cybersecurity - Analyst - Ethical Hacker"
-meta_author: Gilbert Beau
+skills: "Cybersecurity - PenTester - Ethical Hacker"
+meta_author: Jonas Guiddry
 
 # Google webmaster tools
 google_verify:
@@ -39,18 +39,16 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: linkedin
-    url: https://www.linkedin.com/in/beau-gilbert93/
   - title: github
-    url: https://github.com/coachbeau
+    url: https://github.com/tigercyber888
 
 # Email Address (make sure to include "mailto:" before your email!)
 email:
-  email-url: mailto:beaugilbert93@gmail.com
+  email-url: mailto:jonasguidry2026@gmail.com
 
 # Postal address (add as many lines as necessary)
 location:
-  - line: Portland, Oregon
+  - line: Richmond, Virginia
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.
